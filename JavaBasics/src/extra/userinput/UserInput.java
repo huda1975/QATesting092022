@@ -7,6 +7,8 @@ public class UserInput {
 
         Scanner userInput = new Scanner(System.in);
 
+        System.out.println("testing github functionalities ");
+
         System.out.println("enter your name: ");
 
         String name = userInput.nextLine();
